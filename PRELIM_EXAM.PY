@@ -1,7 +1,5 @@
 # EXAM
 
-# EXAM
-
 storage = [["Darel","Daven","Markdave","Daniel"],["adanielle","rhea","aiza","ereca"],["Danica","Sean","Khobe","Roroy"]]
 
 for get_storage in storage:
